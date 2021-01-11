@@ -1,0 +1,15 @@
+#container-header,
+#container-beatmap_list {
+	position: relative;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#container-header {
+	height: 20%;
+}
+
+#container-beatmap_list {
+	height: 80%;
+}
