@@ -7,9 +7,9 @@
 }
 
 #container-header {
-	height: 20%;
+	height: 120px;
 }
 
 #container-beatmap_list {
-	height: 80%;
+	height: calc(100% - 120px);
 }

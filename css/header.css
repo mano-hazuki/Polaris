@@ -1,0 +1,10 @@
+#header-logo {
+	position: absolute;
+	width: 600px;
+	height: 120px;
+	left: 50%;
+	margin: 0;
+	padding: 0;
+	transform: translateX(-50%);
+	background-color: black;
+}
