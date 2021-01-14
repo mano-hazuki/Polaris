@@ -7,9 +7,10 @@
 }
 
 #container-header {
-	height: 120px;
+	height: 140px;
+	background-color: rgba(10, 10, 10, 1);
 }
 
 #container-beatmap_list {
-	height: calc(100% - 120px);
+	height: calc(100% - 160px);
 }
