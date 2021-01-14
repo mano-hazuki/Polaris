@@ -8,9 +8,10 @@
 
 #container-header {
 	height: 140px;
-	background-color: rgba(10, 10, 10, 1);
+	background-color: rgb(10, 10, 10);
 }
 
 #container-beatmap_list {
-	height: calc(100% - 160px);
+	height: calc(100% - 140px);
+	background-color: rgb(15, 15, 15);
 }
